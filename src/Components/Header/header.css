@@ -1,0 +1,26 @@
+.header-wrap{
+text-align: center;
+}
+.header-wrap h2{
+    margin: 0.5rem;
+    padding: 8px;
+    color: #9f8ac9;
+    font-size: 2rem;
+
+}
+
+.header-wrap h1{
+   
+    color: #4141c3;
+    font-size: 3rem;
+
+}
+
+.header-wrap span {
+    color: #9999f1;
+}
+
+.header-wrap p {
+    color: #a9a9a9;
+    font-weight: 500;
+}
