@@ -14,7 +14,7 @@ function Blog() {
   if (blog) {
     setBlog(blog)
   }
-  },[])
+  },[id])
 console.log(blog)
   return (
     <div >
